@@ -1,0 +1,4 @@
+F:/qt-everywhere-src-6.5.2/qtbase/config.tests/binary_for_strip_built/CMakeFiles/lib1.dir
+F:/qt-everywhere-src-6.5.2/qtbase/config.tests/binary_for_strip_built/CMakeFiles/print_lib_path.dir
+F:/qt-everywhere-src-6.5.2/qtbase/config.tests/binary_for_strip_built/CMakeFiles/edit_cache.dir
+F:/qt-everywhere-src-6.5.2/qtbase/config.tests/binary_for_strip_built/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+2	228	7164598772447616	CMakeFiles/lib1.dir/lib1.cpp.obj	86c039755d3627fe
+238	532	7164598775447293	liblib1.dll	6a580a10220ba735
+238	532	7164598775447293	liblib1.dll.a	6a580a10220ba735
+532	683	0	CMakeFiles/print_lib_path	26bf4329fc866132
+532	683	0	F:/qt-everywhere-src-6.5.2/qtbase/config.tests/binary_for_strip_built/CMakeFiles/print_lib_path	26bf4329fc866132
